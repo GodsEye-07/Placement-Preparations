@@ -18,3 +18,6 @@
 		<li>Free online courses to enroll and refer to.</li>    
   </ul>
 </p>
+
+## want to be a contributor?
+Read [CONTRIBUTING.md](./CONTRIBUTING.md) for beginning.
