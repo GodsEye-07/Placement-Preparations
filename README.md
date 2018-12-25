@@ -1,4 +1,8 @@
 [![HitCount](http://hits.dwyl.io/GodsEye-07/Placement-Preparations.svg)](http://hits.dwyl.io/GodsEye-07/Placement-Preparations) ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/GodsEye-07)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 <br />
 <h1 align="center">
   Placement Preperations
