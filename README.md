@@ -20,4 +20,40 @@
 </p>
 
 ## want to be a contributor?
-Read [CONTRIBUTING.md](./CONTRIBUTING.md) for beginning.
+* Read the basic code of conduct before beginning.
+* Fork this repo.
+* Open an issue.
+* Create a PR with proper description.
+
+The code you wish to contribute should have - 
+```cpp  
+      /**
+        * @author: <GitHub Username>
+        * @date: <date>
+	* @desc: <A small Description as to what the code does>
+	* @lang: <The language in which the code has been written in.>
+      **/
+```
+**Any contributions without the following above conditions will not be merged whatsoever.**
+
+### Basic Standards
+
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language.
+* Being respectful of differing viewpoints and experiences.
+* Gracefully accepting constructive criticism.
+* Focusing on what is best for the community.
+* Showing empathy towards other community members.
+
+Examples of unacceptable behavior by participants include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances.
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment.
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission.
+* Other conduct which could reasonably be considered inappropriate in a
+  professional environment.
