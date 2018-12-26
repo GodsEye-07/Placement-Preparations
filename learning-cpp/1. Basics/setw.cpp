@@ -1,5 +1,6 @@
 //This Code is an example on how to set the desired width on any line.
-//Made by AYUSH VERMA.
+//Made by AYUSH VERMA(GodsEye-07).
+//lang: c++
 
 #include <iostream>
 #include <iomanip>
