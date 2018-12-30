@@ -15,14 +15,14 @@ int main(){
             cout<<"It is a Leap Year.";
         }
         else{
-            cout<<"It is not a Leap Year.";
+            cout<<"It is NOT a Leap Year.";
         }
     }
     else if(year%4 == 0){
         cout<<"It is a Leap Year.";
     }
     else{
-        cout<<"It is not a Leap Year.";
+        cout<<"It is NOT a Leap Year.";
     }
 
     return 0;

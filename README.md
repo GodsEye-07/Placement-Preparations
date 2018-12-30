@@ -38,7 +38,7 @@ The code you wish to contribute should have -
 	* @lang: <The language in which the code has been written in.>
       **/
 ```
-**Any contributions without the following above conditions will not be merged whatsoever.**
+**Any contributions without the following above conditions will NOT be merged whatsoever.**
 
 ### Basic Standards
 
