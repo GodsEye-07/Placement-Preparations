@@ -1,1 +1,1 @@
-1. [Mayank Aggarwal](https://github.com/mayankagg9722/Placement-Preparation)
+1. [Mayank Aggarwal's Preperation Repo](https://github.com/mayankagg9722/Placement-Preparation)- He is one of the senior at my college with highly skilled knowledge he has created this Repository. **He is now placed in Microsoft.**
