@@ -1,3 +1,3 @@
 1. [Placement Preparations](https://github.com/mayankagg9722/Placement-Preparation)- This repo is made by Mayank Aggarwal. He is one of the senior at my college with highly skilled knowledge he has created this Repository. **He is now placed in Microsoft.**
 
-2. [Code To Express](https://github.com/CodeToExpress/dailycodebase)- This is a great innitiative started by Madhav Bahl and his team where you get a quesion daily and you can find all the discussions and solutions to the problems there as well.
+2. [Code To Express](https://github.com/CodeToExpress/dailycodebase)- This is a great innitiative started by Madhav Bahl and his team where you get a quesion daily and you can find all the discussions and solutions to the problems there as well. **Madhav Bahl has been selected for Summer Internship at Microsoft 2019. He is a 3rd year student from VIT VELLORE.**
