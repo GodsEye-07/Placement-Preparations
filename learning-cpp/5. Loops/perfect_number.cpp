@@ -1,4 +1,4 @@
-//program to check if the number is perfect of not.
+//program to check if the number is perfect or not.
 //made by AYUSH VERMA(GodsEye-07)
 //lang: C++
 
