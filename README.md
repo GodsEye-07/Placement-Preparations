@@ -17,6 +17,7 @@
     <li>Data Structures and their Implementations.</li>
     <li>How to prepare great Resumes and free ATS checkers.</li>
     <li>Solutions to various coding platforms.</li>
+	<li>Books helpful for interview preparation.</li>	
     <li>List of various playlists of youtube channels with good similar content.</li>
     <li>List of other repos which have similar type of contributions for more reference.</li>
 		<li>Free online courses to enroll and refer to.</li>    
